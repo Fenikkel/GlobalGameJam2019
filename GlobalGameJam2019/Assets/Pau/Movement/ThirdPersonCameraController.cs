@@ -37,6 +37,32 @@ public class ThirdPersonCameraController : MonoBehaviour
     {
         mouseX += Input.GetAxis("Mouse X") * RotationSpeed;
         mouseY -= Input.GetAxis("Mouse Y") * RotationSpeed;
+        mouseY -= Input.GetAxis("Pad Y") * RotationSpeed;
+        mouseX += Input.GetAxis("Pad X") * RotationSpeed;
+
+        /*if (Input.GetAxis("Pad X") > 0.99)
+        {
+            mouseX += Input.GetAxis("Pad X") * RotationSpeed;
+            
+        }
+        else if (Input.GetAxis("Pad X") < -0.99)
+        {
+            mouseX += Input.GetAxis("Pad X") * RotationSpeed;
+           
+        }
+
+        if (Input.GetAxis("Pad Y") > 0.99)
+        {
+           
+            mouseY -= Input.GetAxis("Pad Y") * RotationSpeed;
+        }
+        else if (Input.GetAxis("Pad Y") < -0.99)
+        {
+           
+            mouseY -= Input.GetAxis("Pad Y") * RotationSpeed;
+        }
+        */
+
         mouseY = Mathf.Clamp(mouseY, -35, 60); //Para que no rote en Y mas de lo que toque y no pegue volteretas la camara
 
         transform.LookAt(Target);
