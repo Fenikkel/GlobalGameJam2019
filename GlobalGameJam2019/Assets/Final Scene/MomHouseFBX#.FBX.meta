@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: 4a9003d540a130846a1e24f279f8cef6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: Box004
+    100006: Box005
+    100008: Box006
+    100010: Box007
+    100012: Box008
+    100014: Box009
+    100016: Box010
+    100018: Box011
+    100020: Box012
+    100022: Box013
+    100024: Box014
+    100026: Box015
+    100028: Box016
+    100030: Box017
+    100032: Box018
+    100034: Box019
+    100036: Box0191111
+    100038: Box020
+    100040: Box021
+    100042: Box022
+    100044: Box0221111
+    100046: Box023
+    100048: Box024
+    100050: Box025
+    100052: Box0251111
+    100054: Box026
+    100056: Box0261111
+    100058: Box027
+    100060: Box028
+    100062: Box029
+    100064: Box030
+    100066: Box031
+    100068: Box032
+    100070: Box033
+    100072: Box034
+    100074: Box035
+    100076: Box036
+    100078: Box037
+    100080: Box038
+    100082: Box261112
+    100084: Box261113
+    100086: Box261114
+    100088: Box261115
+    100090: Box261116
+    100092: Box261117
+    100094: Box261118
+    100096: Box261119
+    100098: Box261120
+    100100: Box261121
+    100102: Box261122
+    100104: Cone001
+    100106: Cone002
+    100108: Cone003
+    100110: Cone004
+    100112: Cone005
+    100114: Cone006
+    100116: Cylinder001
+    100118: Cylinder002
+    100120: Cylinder003
+    100122: Cylinder004
+    100124: Cylinder005
+    100126: Cylinder006
+    100128: Cylinder007
+    100130: //RootNode
+    100132: Object001
+    100134: Plane002
+    100136: Plane0021111
+    100138: Plane003
+    100140: Plane0031111
+    100142: Plane010
+    100144: Sphere001
+    100146: Sphere002
+    100148: Sphere002 1
+    100150: Sphere007
+    100152: Sphere008
+    100154: Teapot001
+    400000: Box002
+    400002: Box003
+    400004: Box004
+    400006: Box005
+    400008: Box006
+    400010: Box007
+    400012: Box008
+    400014: Box009
+    400016: Box010
+    400018: Box011
+    400020: Box012
+    400022: Box013
+    400024: Box014
+    400026: Box015
+    400028: Box016
+    400030: Box017
+    400032: Box018
+    400034: Box019
+    400036: Box0191111
+    400038: Box020
+    400040: Box021
+    400042: Box022
+    400044: Box0221111
+    400046: Box023
+    400048: Box024
+    400050: Box025
+    400052: Box0251111
+    400054: Box026
+    400056: Box0261111
+    400058: Box027
+    400060: Box028
+    400062: Box029
+    400064: Box030
+    400066: Box031
+    400068: Box032
+    400070: Box033
+    400072: Box034
+    400074: Box035
+    400076: Box036
+    400078: Box037
+    400080: Box038
+    400082: Box261112
+    400084: Box261113
+    400086: Box261114
+    400088: Box261115
+    400090: Box261116
+    400092: Box261117
+    400094: Box261118
+    400096: Box261119
+    400098: Box261120
+    400100: Box261121
+    400102: Box261122
+    400104: Cone001
+    400106: Cone002
+    400108: Cone003
+    400110: Cone004
+    400112: Cone005
+    400114: Cone006
+    400116: Cylinder001
+    400118: Cylinder002
+    400120: Cylinder003
+    400122: Cylinder004
+    400124: Cylinder005
+    400126: Cylinder006
+    400128: Cylinder007
+    400130: //RootNode
+    400132: Object001
+    400134: Plane002
+    400136: Plane0021111
+    400138: Plane003
+    400140: Plane0031111
+    400142: Plane010
+    400144: Sphere001
+    400146: Sphere002
+    400148: Sphere002 1
+    400150: Sphere007
+    400152: Sphere008
+    400154: Teapot001
+    2100000: 'Material #91'
+    2100002: 'Material #43'
+    2100004: 'Material #46'
+    2100006: 'Material #47'
+    2100008: 'Material #45'
+    2100010: 'Material #44'
+    2100012: 'Material #42'
+    2100014: 'Material #10'
+    2100016: 'Material #12'
+    2100018: 'Material #11'
+    2100020: 'Material #76'
+    2100022: 'Material #60'
+    2100024: 'Material #48'
+    2100026: 'Material #61'
+    2100028: 'Material #108'
+    2100030: 'Material #109'
+    2100032: 'Material #107'
+    2100034: 'Material #75'
+    2100036: No Name
+    2100038: 'Material #63'
+    2100040: 'Material #62'
+    2100042: 'Material #41'
+    2100044: 'Material #121'
+    2100046: 'Material #78'
+    2100048: 'Material #28'
+    2100050: 'Material #40'
+    2100052: 'Material #104'
+    2100054: 'Material #102 Slot #5'
+    2100056: 'Material #102 Slot #6'
+    2100058: 'Material #105'
+    2100060: 'Material #135'
+    2100062: 'Material #134'
+    2100064: 'Material #137'
+    2100066: 'Material #136'
+    2100068: 'Material #15'
+    2100070: 'Material #138'
+    2100072: 'Material #139'
+    2100074: 'Material #3'
+    2100076: 'Material #122'
+    2100078: 'Material #140'
+    2300000: Box002
+    2300002: Box003
+    2300004: Box004
+    2300006: Box005
+    2300008: Box006
+    2300010: Box007
+    2300012: Box008
+    2300014: Box009
+    2300016: Box010
+    2300018: Box011
+    2300020: Box012
+    2300022: Box013
+    2300024: Box014
+    2300026: Box015
+    2300028: Box016
+    2300030: Box017
+    2300032: Box018
+    2300034: Box019
+    2300036: Box0191111
+    2300038: Box020
+    2300040: Box021
+    2300042: Box022
+    2300044: Box0221111
+    2300046: Box023
+    2300048: Box024
+    2300050: Box025
+    2300052: Box0251111
+    2300054: Box026
+    2300056: Box0261111
+    2300058: Box027
+    2300060: Box028
+    2300062: Box029
+    2300064: Box030
+    2300066: Box031
+    2300068: Box032
+    2300070: Box033
+    2300072: Box034
+    2300074: Box035
+    2300076: Box036
+    2300078: Box037
+    2300080: Box038
+    2300082: Box261112
+    2300084: Box261113
+    2300086: Box261114
+    2300088: Box261115
+    2300090: Box261116
+    2300092: Box261117
+    2300094: Box261118
+    2300096: Box261119
+    2300098: Box261120
+    2300100: Box261121
+    2300102: Box261122
+    2300104: Cone001
+    2300106: Cone002
+    2300108: Cone003
+    2300110: Cone004
+    2300112: Cone005
+    2300114: Cone006
+    2300116: Cylinder001
+    2300118: Cylinder002
+    2300120: Cylinder003
+    2300122: Cylinder004
+    2300124: Cylinder005
+    2300126: Cylinder006
+    2300128: Cylinder007
+    2300130: Object001
+    2300132: Plane002
+    2300134: Plane0021111
+    2300136: Plane003
+    2300138: Plane0031111
+    2300140: Plane010
+    2300142: Sphere001
+    2300144: Sphere007
+    2300146: Sphere008
+    2300148: Teapot001
+    3300000: Box002
+    3300002: Box003
+    3300004: Box004
+    3300006: Box005
+    3300008: Box006
+    3300010: Box007
+    3300012: Box008
+    3300014: Box009
+    3300016: Box010
+    3300018: Box011
+    3300020: Box012
+    3300022: Box013
+    3300024: Box014
+    3300026: Box015
+    3300028: Box016
+    3300030: Box017
+    3300032: Box018
+    3300034: Box019
+    3300036: Box0191111
+    3300038: Box020
+    3300040: Box021
+    3300042: Box022
+    3300044: Box0221111
+    3300046: Box023
+    3300048: Box024
+    3300050: Box025
+    3300052: Box0251111
+    3300054: Box026
+    3300056: Box0261111
+    3300058: Box027
+    3300060: Box028
+    3300062: Box029
+    3300064: Box030
+    3300066: Box031
+    3300068: Box032
+    3300070: Box033
+    3300072: Box034
+    3300074: Box035
+    3300076: Box036
+    3300078: Box037
+    3300080: Box038
+    3300082: Box261112
+    3300084: Box261113
+    3300086: Box261114
+    3300088: Box261115
+    3300090: Box261116
+    3300092: Box261117
+    3300094: Box261118
+    3300096: Box261119
+    3300098: Box261120
+    3300100: Box261121
+    3300102: Box261122
+    3300104: Cone001
+    3300106: Cone002
+    3300108: Cone003
+    3300110: Cone004
+    3300112: Cone005
+    3300114: Cone006
+    3300116: Cylinder001
+    3300118: Cylinder002
+    3300120: Cylinder003
+    3300122: Cylinder004
+    3300124: Cylinder005
+    3300126: Cylinder006
+    3300128: Cylinder007
+    3300130: Object001
+    3300132: Plane002
+    3300134: Plane0021111
+    3300136: Plane003
+    3300138: Plane0031111
+    3300140: Plane010
+    3300142: Sphere001
+    3300144: Sphere007
+    3300146: Sphere008
+    3300148: Teapot001
+    4300000: Plane002
+    4300002: Box002
+    4300004: Box003
+    4300006: Box004
+    4300008: Box005
+    4300010: Box006
+    4300012: Box007
+    4300014: Plane003
+    4300016: Box008
+    4300018: Box009
+    4300020: Box010
+    4300022: Box011
+    4300024: Box012
+    4300026: Box013
+    4300028: Sphere001
+    4300030: Cylinder001
+    4300032: Cylinder002
+    4300034: Cylinder003
+    4300036: Box014
+    4300038: Box015
+    4300040: Box016
+    4300042: Box017
+    4300044: Box019
+    4300046: Sphere007
+    4300048: Box020
+    4300050: Box021
+    4300052: Sphere008
+    4300054: Cone001
+    4300056: Box022
+    4300058: Box025
+    4300060: Box026
+    4300062: Cylinder004
+    4300064: Cylinder005
+    4300066: Cylinder006
+    4300068: Cylinder007
+    4300070: Plane0021111
+    4300072: Plane0031111
+    4300074: Box018
+    4300076: Box0191111
+    4300078: Box0221111
+    4300080: Box023
+    4300082: Cone002
+    4300084: Box024
+    4300086: Box0251111
+    4300088: Box0261111
+    4300090: Cone003
+    4300092: Box027
+    4300094: Box028
+    4300096: Cone004
+    4300098: Cone005
+    4300100: Cone006
+    4300102: Plane010
+    4300104: Box029
+    4300106: Box030
+    4300108: Box031
+    4300110: Box032
+    4300112: Box033
+    4300114: Box034
+    4300116: Box035
+    4300118: Box036
+    4300120: Box037
+    4300122: Box038
+    4300124: Teapot001
+    4300126: Box261112
+    4300128: Box261113
+    4300130: Box261114
+    4300132: Box261115
+    4300134: Box261116
+    4300136: Box261117
+    4300138: Box261118
+    4300140: Box261119
+    4300142: Box261120
+    4300144: Box261121
+    4300146: Box261122
+    4300148: Object001
+    6400000: Box002
+    6400002: Box003
+    6400004: Box004
+    6400006: Box005
+    6400008: Box006
+    6400010: Box007
+    6400012: Box008
+    6400014: Box009
+    6400016: Box010
+    6400018: Box011
+    6400020: Box012
+    6400022: Box013
+    6400024: Box014
+    6400026: Box015
+    6400028: Box016
+    6400030: Box017
+    6400032: Box018
+    6400034: Box019
+    6400036: Box0191111
+    6400038: Box020
+    6400040: Box021
+    6400042: Box022
+    6400044: Box0221111
+    6400046: Box023
+    6400048: Box024
+    6400050: Box025
+    6400052: Box0251111
+    6400054: Box026
+    6400056: Box0261111
+    6400058: Box027
+    6400060: Box028
+    6400062: Box029
+    6400064: Box030
+    6400066: Box031
+    6400068: Box032
+    6400070: Box033
+    6400072: Box034
+    6400074: Box035
+    6400076: Box036
+    6400078: Box037
+    6400080: Box038
+    6400082: Box261112
+    6400084: Box261113
+    6400086: Box261114
+    6400088: Box261115
+    6400090: Box261116
+    6400092: Box261117
+    6400094: Box261118
+    6400096: Box261119
+    6400098: Box261120
+    6400100: Box261121
+    6400102: Box261122
+    6400104: Cone001
+    6400106: Cone002
+    6400108: Cone003
+    6400110: Cone004
+    6400112: Cone005
+    6400114: Cone006
+    6400116: Cylinder001
+    6400118: Cylinder002
+    6400120: Cylinder003
+    6400122: Cylinder004
+    6400124: Cylinder005
+    6400126: Cylinder006
+    6400128: Cylinder007
+    6400130: Object001
+    6400132: Plane002
+    6400134: Plane0021111
+    6400136: Plane003
+    6400138: Plane0031111
+    6400140: Plane010
+    6400142: Sphere001
+    6400144: Sphere007
+    6400146: Sphere008
+    6400148: Teapot001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10'
+    second: {fileID: 2100000, guid: c96dff0e55ed05f45a45f87908c854d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #102 Slot #5'
+    second: {fileID: 2100000, guid: dfb7fab7a5ffe4541b4c4e68d6e6aa51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #102 Slot #6'
+    second: {fileID: 2100000, guid: cd838ddb92394fa48ae8b4a2ab904cbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #104'
+    second: {fileID: 2100000, guid: 1333a7807565cf14d9762f453f96a10f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #105'
+    second: {fileID: 2100000, guid: f1bd7bccaefd84f4fb6b2a69f9987efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #107'
+    second: {fileID: 2100000, guid: 4ded076b0024d4441ab382fe51cb9ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #108'
+    second: {fileID: 2100000, guid: 3a027592cabab7845850a040d0069533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #109'
+    second: {fileID: 2100000, guid: 25e980ff7a0796c45a6d4dc5f3fcf0a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #11'
+    second: {fileID: 2100000, guid: 6358cc055a4cf71438e7b6e75f263407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #12'
+    second: {fileID: 2100000, guid: d12bffada4835e840aaa195ac998efaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #121'
+    second: {fileID: 2100000, guid: dae48db600446534a8cbfce39447ec32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #122'
+    second: {fileID: 2100000, guid: 77dadec7313ffec48a372c54f6d8e4e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #134'
+    second: {fileID: 2100000, guid: 02452d0eb1bb27542952ba238312a56d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #135'
+    second: {fileID: 2100000, guid: 1192ba67a78e2b14189396f1288e16ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #136'
+    second: {fileID: 2100000, guid: 29f88c1f013e49848b2b9d5587020de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #137'
+    second: {fileID: 2100000, guid: 98365b49dec1fbc40b9f6b8050a8d47e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #138'
+    second: {fileID: 2100000, guid: 83e6c6e787359b04798f7d5130824dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #139'
+    second: {fileID: 2100000, guid: dc36e538f5b6e2a40b6882bd07445b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #140'
+    second: {fileID: 2100000, guid: 2341a92d8162cd24da770d8253376fb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15'
+    second: {fileID: 2100000, guid: 334e7a70d4180b2428d8f09a9406ad2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: 64f90c7bfb3267a4884014ece78b1b4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 2955664a8873a184c89db7b6378d5630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: a8661e7e5cc77b142bf890f143f8fefb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: ae6b2e45c4ac06b40a08f22705b3d186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: 2a173cf4dc58d1c4298c143f86ca69c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: aab1b1e829c8b4e40a0001f681db4e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #44'
+    second: {fileID: 2100000, guid: f7a59fb58e001264cbca27b183d1061a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: 2dd2346c986f4f048b0b6e3bad4daae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #46'
+    second: {fileID: 2100000, guid: 368efdf2385610147bb2f057f53dd221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: e240bf81eeb8c9d438c5b038030f4744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 49af7535674e1f143af1ba9658239de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: 65ca6f406a9a69a4f958de06f7e7354b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #61'
+    second: {fileID: 2100000, guid: 7ec06a905cab394409856d2f210598d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #62'
+    second: {fileID: 2100000, guid: 7b9cd1e013ce9c342b0db7d05afd2dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #63'
+    second: {fileID: 2100000, guid: ef595d780eae45e4b9f01e580b609720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #75'
+    second: {fileID: 2100000, guid: 946329691c150f54ea0f8caf08ea0daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #76'
+    second: {fileID: 2100000, guid: 731c3c1fdf911a34197389b62badc325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #78'
+    second: {fileID: 2100000, guid: bf138cf577a499e4daa129cc40b3c4c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #91'
+    second: {fileID: 2100000, guid: f45be82702be9fb449941bb7ee335365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 39054c84803196b4b86b86b3ac0c3417, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2885743
+    second: {fileID: 2800000, guid: 11db487067a877a4cb14e83186513577, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 51L3Dqz8K9L._SX324_BO1,204,203,200_
+    second: {fileID: 2800000, guid: 983f5ad02f860ff4f842fbb310a7ce12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9788427042339
+    second: {fileID: 2800000, guid: c1d665aadc28706489002a1a1b520e02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buzz-lightyear-toy-story-3-wallpaper
+    second: {fileID: 2800000, guid: 20000c28d2384c642aef6532ce0b1dae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E
+    second: {fileID: 2800000, guid: 0819527eba826c84bafc9f21cdd957d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: J
+    second: {fileID: 2800000, guid: 810fda3ad70f52b41b8da1fd7bf11e17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: K
+    second: {fileID: 2800000, guid: f106a4557021e594591b849f9140aca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M
+    second: {fileID: 2800000, guid: 9ace77d2f7fbb674891aac4bfe51a5a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Ni\xF1o-barquito-Sorolla"
+    second: {fileID: 2800000, guid: 532ba28b1e76afa47961b055b6186354, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O
+    second: {fileID: 2800000, guid: f3d71c1dcb1c91c4592d380d41390ca2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Salvador-Dali-tentacion-san-antonio
+    second: {fileID: 2800000, guid: 3f85bf6d295d7bb479174e9537a53346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: books
+    second: {fileID: 2800000, guid: e27f3b41c0763294fb4ef061449aea96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: books1
+    second: {fileID: 2800000, guid: 321358c82299cf94393eae26d84a34d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cedro
+    second: {fileID: 2800000, guid: 8bc8723715574494ea1d6c20a410160c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cuadrados
+    second: {fileID: 2800000, guid: a7b9f1bc52af4854fa56363b448b9500, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: depositphotos_1041443-stock-photo-cat-fur-texture
+    second: {fileID: 2800000, guid: e53b3d1424fa4654bbdca4a7b1785c93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: descarga
+    second: {fileID: 2800000, guid: 67ae88200bd48e54bafd76b61e89fbff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fondo-textura-pelota-futbol_28257-121
+    second: {fileID: 2800000, guid: 72dbe53a7a8b4004d987f35c1254207c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gato-violin-big
+    second: {fileID: 2800000, guid: 6cd50e48155a9ab4f8526c432010fa68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: libro
+    second: {fileID: 2800000, guid: 09e5f92977a8f914c897a586667e4a49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: libro2
+    second: {fileID: 2800000, guid: 5666e08fec031e9479300f9869500c7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: manta
+    second: {fileID: 2800000, guid: 37bf729d35b53d84883acf356963fb52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: starts
+    second: {fileID: 2800000, guid: 54c8759091d9d9d45b8a8c5fd3f78c82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: window-size
+    second: {fileID: 2800000, guid: 6f418a44388ef8345ab0ed0dbdabf113, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
