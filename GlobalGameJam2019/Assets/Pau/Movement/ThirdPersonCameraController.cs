@@ -8,6 +8,7 @@ public class ThirdPersonCameraController : MonoBehaviour
     public float RotationSpeed = 1;
     public Transform Target, Player;
     float mouseX, mouseY;
+ 
 
     public Transform Obstruction;
     float zoomSpeed = 2f;
@@ -16,8 +17,6 @@ public class ThirdPersonCameraController : MonoBehaviour
     public bool Patch;
 
     void Start() {
-
-        
 
         Obstruction = Target;
         
